@@ -1,0 +1,27 @@
+{
+  "system_name": "Hybrid Neuromorphic-CNN-LSTM",
+  "version": "1.0.0",
+  "components": [
+    "CNN",
+    "LSTM",
+    "SNN"
+  ],
+  "performance": {
+    "avg_inference_time_ms": 49.92262973998095,
+    "std_inference_time_ms": 192.57927239942813,
+    "min_inference_time_ms": 21.007618999874467,
+    "max_inference_time_ms": 1397.9582340000434,
+    "avg_memory_mb": 0.162626953125,
+    "total_parameters": 7674242,
+    "model_size_mb": 29.27490997314453
+  },
+  "power_consumption_uw": "N/A",
+  "accuracy_percent": 85.00000238418579,
+  "deployment_ready": true,
+  "target_applications": [
+    "Deep-space plasma turbulence detection",
+    "Real-time signal anomaly identification",
+    "Ultra-low power edge computing",
+    "Autonomous space mission support"
+  ]
+}

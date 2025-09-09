@@ -1,0 +1,14 @@
+{
+  "test_accuracy": 69.6,
+  "test_loss": 0.6163215264678001,
+  "training_time_minutes": 6.0895659526189165,
+  "best_val_accuracy": 70.25,
+  "power_metrics": {
+    "avg_inference_time_ms": 22.336095571517944,
+    "spike_rate": 0.1431297869682312,
+    "estimated_power_uw": 0.2862595739364624,
+    "total_spikes": 286
+  },
+  "model_parameters": 230274,
+  "classification_report": "              precision    recall  f1-score   support\n\n      Normal       0.70      1.00      0.82       696\n     Anomaly       0.00      0.00      0.00       304\n\n    accuracy                           0.70      1000\n   macro avg       0.35      0.50      0.41      1000\nweighted avg       0.48      0.70      0.57      1000\n"
+}
