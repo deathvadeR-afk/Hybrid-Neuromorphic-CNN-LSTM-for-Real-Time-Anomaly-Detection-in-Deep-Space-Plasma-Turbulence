@@ -1,0 +1,11 @@
+{
+  "best_val_balanced_accuracy": 83.64285714285714,
+  "test_accuracy": 89.375,
+  "test_balanced_accuracy": 83.24404761904762,
+  "test_normal_accuracy": 98.57142857142858,
+  "test_anomaly_accuracy": 67.91666666666667,
+  "stability_achieved": true,
+  "performance_target_met": true,
+  "recommendation": "Integrate working SNN into hybrid CNN-LSTM-SNN pipeline",
+  "ready_for_integration": true
+}
